@@ -1,41 +1,26 @@
-# myProject
+# README-Generator
 
-  ![License Badge](https://img.shields.io/badge/License-MIT-blue)
+## Table of Contents
 
-  undefined
-  
-  ## Table of Contents
-  
-  * [Installation](#installation)
-  * [Use](#use)
-  * [License](#license)
-  * [Contributors](#contributors)
-  * [Test Instructions](#test_instructions)
-  * [Questions](#questions)
-  
-  ## Installation
-  
-  undefined
-  
-  ## Use
-  
-  undefined
-  
-  ## License
+* [Installation](#installation)
+* [Use](#use)
+* [License](#license)
+* [Deployment Links](#links)
 
-This project is licensed under the [MIT]([License Link](https://opensource.org/licenses/MIT)) license.
-  
-  ## Contributors
-  
-  undefined
-  
-  ## Test Instructions
-  
-  
-  
-  ## Questions
-  
-  Contact me on GitHub at [undefined](https://www.github.com/undefined)
-  
-  Email me at [myemail@email.com](mailto:myemail@email.com)
-  
+## Installation
+
+<li>Install Node.js</li>
+
+<li>Clone the repository to your local machine using the following command replacing your-username with your GitHub username: git clone https://github.com/your-username/readme-generator.git</li>
+
+<li>Navigate to the project directory: cd readme-generator</li>
+
+<li>Install the npm packages: npm install</li>
+
+## Use
+
+To use this application, see this guided video: 
+
+## Links
+
+GitHub repo: https://github.com/axavier1/readmeGen
